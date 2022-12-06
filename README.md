@@ -23,3 +23,12 @@ Maquette
 https://xd.adobe.com/view/1873d136-c9ad-4b7f-af00-4a3c5d19ffab-4d20/ 
   </p>
 
+  <h2 align="right">
+Résultat
+</h2>
+ <div align="center">
+<video src="https://user-images.githubusercontent.com/119424745/205456665-f9a8a9b0-05ce-40fa-8168-9d82d4fcf25b.mov" width="20%"/>
+  </div> 
+  <div align="leftr">
+<video src="https://user-images.githubusercontent.com/119424745/205454107-80344f43-47e7-4761-b8ed-24fb40f819f0.mov" width="20%"/>
+  </div> 
