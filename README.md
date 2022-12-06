@@ -23,7 +23,8 @@ Maquette
 https://xd.adobe.com/view/1873d136-c9ad-4b7f-af00-4a3c5d19ffab-4d20/ 
   </p>
 
-  <h2 align="right">
+  <h2 align="center">
+  <br><br>
 Résultat
 </h2>
  <div align="center">
