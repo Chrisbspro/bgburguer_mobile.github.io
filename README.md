@@ -27,6 +27,12 @@ https://xd.adobe.com/view/1873d136-c9ad-4b7f-af00-4a3c5d19ffab-4d20/
   <br><br>
 Résultat
 </h2>
+  <br>
+  <strong>Je vous invite a voir ma prestation avec le lien ci dessus:<br>(mobile only)</strong>
+  <br>
+  https://chrisbspro.github.io/bgburguer_mobile.github.io/telephone.html
+  <br>
+  <br>
  <div align="center">
 <video src="https://user-images.githubusercontent.com/119424745/205456665-f9a8a9b0-05ce-40fa-8168-9d82d4fcf25b.mov" width="20%"/>
   </div> 
