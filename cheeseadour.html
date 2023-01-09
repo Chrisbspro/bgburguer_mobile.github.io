@@ -262,12 +262,44 @@ display: none;
             padding: 0em;
             }
 }
+/* LOADER */
+.loader{
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            background-color: #fca726;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1;
+            left:0%
+        }
 
-
+        .fondu-out {
+            opacity:0;
+            transition: opacity 9s step-end;
+        }
         </style>
         
         
         
+        <div class="loader">
+
+            <img src="IMG_7492.GIF" width="15%"  controls playsinline  >
+    
+        </div>
+        
+        
+        <script>
+        const loader = document.querySelector('.loader');
+        
+        window.addEventListener('load',() => {
+            loader.classList.add('fondu-out');
+        })
+        </script>
+
+
+
         <nav>
             <div class="wrapper">
             <div class="logo"><img button onclick="bigbg()" src=bgphotos/bglogo.png></div>
