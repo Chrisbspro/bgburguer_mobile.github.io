@@ -1,4 +1,4 @@
 
 function bigbg() {
-    location.replace("file:///Users/chrisbissai/Desktop/B/responsive/telephone.html")
+    location.replace("https://chrisbspro.github.io/bgburguer_mobile.github.io/telephone.html")
     }
