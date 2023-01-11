@@ -19,7 +19,7 @@ Maquette
 </h2>
  
  <img src="https://user-images.githubusercontent.com/119424745/205443429-c8df1b74-8fb2-4ae8-83fe-9a0abc2d2e31.png" width="80%"/>
-<p>
+<p >
 https://xd.adobe.com/view/1873d136-c9ad-4b7f-af00-4a3c5d19ffab-4d20/ 
   </p>
 
@@ -30,7 +30,9 @@ Résultat
   <br>
   <strong>Je vous invite a voir ma prestation avec le lien ci dessus:<br>(mobile only)</strong>
   <br>
+  <p href="https://chrisbspro.github.io/bgburguer_mobile.github.io/telephone.html" style="color: black;">
   https://chrisbspro.github.io/bgburguer_mobile.github.io/telephone.html
+  </p>
   <br>
   <br>
  <div align="center">
