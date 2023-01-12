@@ -30,9 +30,11 @@ Résultat
   <br>
   <strong>Je vous invite a voir ma prestation avec le lien ci dessus:<br>(mobile only)</strong>
   <br>
-  <h3 href="https://chrisbspro.github.io/bgburguer_mobile.github.io/telephone.html" style="color: black;">
-  https://chrisbspro.github.io/bgburguer_mobile.github.io/telephone.html
-  </h3>
+  <a href="https://chrisbspro.github.io/bgburguer_mobile.github.io/telephone.html" style="color: black;">
+  <p> 
+    https://chrisbspro.github.io/bgburguer_mobile.github.io/telephone.html
+  </p>
+  </a>
   <br>
   <br>
  <div align="center">
